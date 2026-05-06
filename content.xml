@@ -1,0 +1,692 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260507000808DWKXGW</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260507000808O6X2GW</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Aprende  A Convivir</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Agustina Ledesma Gil</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Este proyecto está destinado para 4º de Primaria de Religión. Busca que el alumnado aprenda a vivir en armonía con los demás, fomentando valores  como el respeto, la empatía, el perdón inspirados en las enseñanzas de Jesús</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778093231969</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>f58b7dfa-2656-4ab9-9aee-1c14c85c8850</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Página nueva</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Página nueva</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778093622508-fweat63i5</odePageId>
+  <odeParentPageId>f58b7dfa-2656-4ab9-9aee-1c14c85c8850</odeParentPageId>
+  <pageName>Portada</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Portada</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778093622508-fweat63i5</odePageId>
+      <odeBlockId>block-1778093641794-6k1rllsjz</odeBlockId>
+      <blockName>Aprendo a Convivir</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778093622508-fweat63i5</odePageId>
+          <odeBlockId>block-1778093641794-6k1rllsjz</odeBlockId>
+          <odeIdeviceId>idevice-1778093641793-niufo0ook</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>"Convivir es aprender a respetar, ayudar y querer a los demás cada día"</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778093641793-niufo0ook","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>\"Convivir es aprender a respetar, ayudar y querer a los demás cada día\"</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778094336991-m0yhp52hi</odePageId>
+  <odeParentPageId>f58b7dfa-2656-4ab9-9aee-1c14c85c8850</odeParentPageId>
+  <pageName>Presentación del Proyecto</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación del Proyecto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778094336991-m0yhp52hi</odePageId>
+      <odeBlockId>block-1778096551065-qu237tniv</odeBlockId>
+      <blockName>Presentación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778094336991-m0yhp52hi</odePageId>
+          <odeBlockId>block-1778096551065-qu237tniv</odeBlockId>
+          <odeIdeviceId>idevice-1778096551063-4wqd3l3wo</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="presentacion-del-proyecto.html" title="">https://canva.link/v28bq7bno2tv811</a></p>
+<div class="exe-fx exe-tabs">
+<h2>Situación Inicial</h2>
+<p>¿Cómo nos sentimos cuándo nos tratan mal? ¿Qué podemos hacer para llevarnos mejor?</p>
+<h2>Objetivos</h2>
+<p>Que en la clase se consiga un buen clima de trabajo y de convivencia</p>
+</div>
+<p><a href="presentacion-del-proyecto.html" title=""></a></p>
+<div class="exe-fx exe-tabs">
+<h2>Nivel del alumnado</h2>
+<p>Este proyecto va dirigido a alumnos de 4º de Primaria</p>
+<h2>Producto Final</h2>
+<p>Elaboración de un Decálogo</p>
+</div>
+<p><a href="presentacion-del-proyecto.html" title=""></a></p>
+<div class="exe-fx exe-tabs">
+<h2>Encabezado 2</h2>
+<p>Contenido</p>
+<h2>Encabezado 2</h2>
+<p>Contenido</p>
+</div>
+<p><a href="presentacion-del-proyecto.html" title=""></a></p>
+<div class="exe-fx exe-tabs">
+<h2>Encabezado 2</h2>
+<p>Contenido</p>
+<h2>Encabezado 2</h2>
+<p>Contenido</p>
+</div>
+<p><a href="presentacion-del-proyecto.html" title=""><br /><br /><br /><br /></a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778096551063-4wqd3l3wo","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"exe-node:page-1778094336991-m0yhp52hi\" title=\"\">https://canva.link/v28bq7bno2tv811</a></p>\n<div class=\"exe-fx exe-tabs\">\n<h2>Situación Inicial</h2>\n<p>¿Cómo nos sentimos cuándo nos tratan mal? ¿Qué podemos hacer para llevarnos mejor?</p>\n<h2>Objetivos</h2>\n<p>Que en la clase se consiga un buen clima de trabajo y de convivencia</p>\n</div>\n<p><a href=\"exe-node:page-1778094336991-m0yhp52hi\" title=\"\"></a></p>\n<div class=\"exe-fx exe-tabs\">\n<h2>Nivel del alumnado</h2>\n<p>Este proyecto va dirigido a alumnos de 4º de Primaria</p>\n<h2>Producto Final</h2>\n<p>Elaboración de un Decálogo</p>\n</div>\n<p><a href=\"exe-node:page-1778094336991-m0yhp52hi\" title=\"\"></a></p>\n<div class=\"exe-fx exe-tabs\">\n<h2>Encabezado 2</h2>\n<p>Contenido</p>\n<h2>Encabezado 2</h2>\n<p>Contenido</p>\n</div>\n<p><a href=\"exe-node:page-1778094336991-m0yhp52hi\" title=\"\"></a></p>\n<div class=\"exe-fx exe-tabs\">\n<h2>Encabezado 2</h2>\n<p>Contenido</p>\n<h2>Encabezado 2</h2>\n<p>Contenido</p>\n</div>\n<p><a href=\"exe-node:page-1778094336991-m0yhp52hi\" title=\"\"><br /><br /><br /><br /></a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778097241951-cqq8i0q8f</odePageId>
+  <odeParentPageId>f58b7dfa-2656-4ab9-9aee-1c14c85c8850</odeParentPageId>
+  <pageName>Protección de Datos</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protección de Datos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778097241951-cqq8i0q8f</odePageId>
+      <odeBlockId>block-1778097272763-prjrtfum1</odeBlockId>
+      <blockName>Navegar de forma segura</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778097241951-cqq8i0q8f</odePageId>
+          <odeBlockId>block-1778097272763-prjrtfum1</odeBlockId>
+          <odeIdeviceId>idevice-1778097272761-r7kr92tgj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="proteccion-de-datos.html" title="Protege tus datos">https://canva.link/y4kt8wjmf10yx5o</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778097272761-r7kr92tgj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"exe-node:page-1778097241951-cqq8i0q8f\" title=\"Protege tus datos\">https://canva.link/y4kt8wjmf10yx5o</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778097985142-ejjc76342</odePageId>
+  <odeParentPageId>f58b7dfa-2656-4ab9-9aee-1c14c85c8850</odeParentPageId>
+  <pageName>Descripción Producto Final</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción Producto Final</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778097985142-ejjc76342</odePageId>
+      <odeBlockId>block-1778101057459-avtqdwc7e</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778097985142-ejjc76342</odePageId>
+          <odeBlockId>block-1778101057459-avtqdwc7e</odeBlockId>
+          <odeIdeviceId>idevice-1778101057458-xou2358yx</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-fx exe-tabs">
+<h2>Actividad 1.</h2>
+<p>Escuchamos el cuento: "Nos Tratamos Bien"</p>
+<h2>Actividad 2</h2>
+Canción: "Suena la Paz"</div>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778101057458-xou2358yx","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-fx exe-tabs\">\n<h2>Actividad 1.</h2>\n<p>Escuchamos el cuento: \"Nos Tratamos Bien\"</p>\n<h2>Actividad 2</h2>\nCanción: \"Suena la Paz\"</div>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778098120194-ur41ksoy1</odePageId>
+  <odeParentPageId>f58b7dfa-2656-4ab9-9aee-1c14c85c8850</odeParentPageId>
+  <pageName>Herramientas de Curación</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Herramientas de Curación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778098120194-ur41ksoy1</odePageId>
+      <odeBlockId>block-1778098125763-jicpu4upr</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778098120194-ur41ksoy1</odePageId>
+          <odeBlockId>block-1778098125763-jicpu4upr</odeBlockId>
+          <odeIdeviceId>idevice-1778098125762-7l6hcy3c6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-fx exe-tabs">
+<h2>Herramienta para el alumnado</h2>
+<p>C<a href="herramientas-de-curacion.html" title="">https://padlet.com/agustinaledesmagil/aprendo-a-convivir-xt9opwcdjht7m5rk</a>ontenido</p>
+<h2>Herramienta para el profesor</h2>
+<p>Co<a href="herramientas-de-curacion.html" title="">https://www.symbaloo.com/home/mix/13eOhRQGXG</a>ntenido</p>
+</div>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778098125762-7l6hcy3c6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-fx exe-tabs\">\n<h2>Herramienta para el alumnado</h2>\n<p>C<a href=\"exe-node:page-1778098120194-ur41ksoy1\" title=\"\">https://padlet.com/agustinaledesmagil/aprendo-a-convivir-xt9opwcdjht7m5rk</a>ontenido</p>\n<h2>Herramienta para el profesor</h2>\n<p>Co<a href=\"exe-node:page-1778098120194-ur41ksoy1\" title=\"\">https://www.symbaloo.com/home/mix/13eOhRQGXG</a>ntenido</p>\n</div>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778101686970-ysttwgu4z</odePageId>
+  <odeParentPageId>f58b7dfa-2656-4ab9-9aee-1c14c85c8850</odeParentPageId>
+  <pageName>Línea Temporal</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea Temporal</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778101686970-ysttwgu4z</odePageId>
+      <odeBlockId>block-1778101713455-pgxz2cn2j</odeBlockId>
+      <blockName>Nuestras Tareas</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778101686970-ysttwgu4z</odePageId>
+          <odeBlockId>block-1778101713455-pgxz2cn2j</odeBlockId>
+          <odeIdeviceId>idevice-1778101713454-mm0gfy5gt</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Tenemos que realizar estas cuatro tareas y la quinta será el producto final</p>
+<p><a href="linea-temporal.html" title="">https://canva.link/obxmy3i4b8hfp4c</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778101713454-mm0gfy5gt","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Tenemos que realizar estas cuatro tareas y la quinta será el producto final</p>\n<p><a href=\"exe-node:page-1778101686970-ysttwgu4z\" title=\"\">https://canva.link/obxmy3i4b8hfp4c</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778102444338-0y33acn7q</odePageId>
+  <odeParentPageId>f58b7dfa-2656-4ab9-9aee-1c14c85c8850</odeParentPageId>
+  <pageName>Criterios de Evaluación</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de Evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778102444338-0y33acn7q</odePageId>
+      <odeBlockId>block-1778102452004-q82xm13h8</odeBlockId>
+      <blockName>Vamos a relacionar cada tarea con un criterio</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778102444338-0y33acn7q</odePageId>
+          <odeBlockId>block-1778102452004-q82xm13h8</odeBlockId>
+          <odeIdeviceId>idevice-1778102452003-za0e6gqj3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="criterios-de-evaluacion.html" title="">https://docs.google.com/document/d/15hTxsmgRbXkDTh8CE7z7N7txmXvTFo2g/edit?usp=sharing&amp;ouid=111949104470085202478&amp;rtpof=true&amp;sd=true</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778102452003-za0e6gqj3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"exe-node:page-1778102444338-0y33acn7q\" title=\"\">https://docs.google.com/document/d/15hTxsmgRbXkDTh8CE7z7N7txmXvTFo2g/edit?usp=sharing&amp;ouid=111949104470085202478&amp;rtpof=true&amp;sd=true</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778102622864-1cwwe16us</odePageId>
+  <odeParentPageId>f58b7dfa-2656-4ab9-9aee-1c14c85c8850</odeParentPageId>
+  <pageName>Instrumentos de Evaluación</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de Evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778102622864-1cwwe16us</odePageId>
+      <odeBlockId>block-1778102634821-8hda8skrj</odeBlockId>
+      <blockName>Evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778102622864-1cwwe16us</odePageId>
+          <odeBlockId>block-1778102634821-8hda8skrj</odeBlockId>
+          <odeIdeviceId>idevice-1778102634820-n9xu6s4an</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-fx exe-accordion">
+<h2>Lista De Cotejo</h2>
+<p>Co<a href="instrumentos-de-evaluacion.html" title="">https://canva.link/ptco4v31gs8hy4c</a>ntenido</p>
+<h2>Rúbrica</h2>
+<p>Con<a href="instrumentos-de-evaluacion.html" title="">https://canva.link/3wjcr0uv5j13i57</a>tenido</p>
+</div>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778102634820-n9xu6s4an","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-fx exe-accordion\">\n<h2>Lista De Cotejo</h2>\n<p>Co<a href=\"exe-node:page-1778102622864-1cwwe16us\" title=\"\">https://canva.link/ptco4v31gs8hy4c</a>ntenido</p>\n<h2>Rúbrica</h2>\n<p>Con<a href=\"exe-node:page-1778102622864-1cwwe16us\" title=\"\">https://canva.link/3wjcr0uv5j13i57</a>tenido</p>\n</div>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778103135068-y70vqdz0z</odePageId>
+  <odeParentPageId>f58b7dfa-2656-4ab9-9aee-1c14c85c8850</odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778103135068-y70vqdz0z</odePageId>
+      <odeBlockId>block-1778103169225-8xtphgvs4</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778103135068-y70vqdz0z</odePageId>
+          <odeBlockId>block-1778103169225-8xtphgvs4</odeBlockId>
+          <odeIdeviceId>idevice-1778103169225-e0lewfnh1</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info" height="411" style="width: 100%;"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th style="width: 8.01529%;">Título</th>
+<td class="mceNonEditable exe-prop-locked" style="width: 91.9315%;"><span class="exe-prop-title">Aprende  A Convivir</span></td>
+</tr>
+<tr>
+<th style="width: 8.01529%;">Descripción</th>
+<td class="mceNonEditable exe-prop-locked" style="width: 91.9315%;"><span class="exe-prop-description">Este proyecto está destinado para 4º de Primaria de Religión. Busca que el alumnado aprenda a vivir en armonía con los demás, fomentando valores  como el respeto, la empatía, el perdón inspirados en las enseñanzas de Jesús</span></td>
+</tr>
+<tr>
+<th style="width: 8.01529%;">Autoría</th>
+<td class="mceNonEditable exe-prop-locked" style="width: 91.9315%;"><span class="exe-prop-author">Agustina Ledesma Gil</span></td>
+</tr>
+<tr>
+<th style="width: 8.01529%;">Licencia</th>
+<td class="mceNonEditable exe-prop-locked" style="width: 91.9315%;"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
